@@ -2,7 +2,7 @@
 
 I build things with TypeScript and Python. Lately: LLM agents, serverless backends, and tools that do something useful instead of just demoing well.
 
-### Stuff I've made
+### Fun projects
 
 **[rez]** — feed it a GitHub URL, get back resume bullets and talking points. Three Claude agents in a row (Scout → Analyst → Writer), streamed live over NDJSON. `Next.js` `React 19` `Claude`
 
