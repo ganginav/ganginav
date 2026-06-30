@@ -1,16 +1,19 @@
-## Hi there 👋
+# [Vibhu Gangina]
 
-<!--
-**ganginav/ganginav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build things with TypeScript and Python. Lately: LLM agents, serverless backends, and tools that do something useful instead of just demoing well.
 
-Here are some ideas to get you started:
+### Stuff I've made
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[rez]** — feed it a GitHub URL, get back resume bullets and talking points. Three Claude agents in a row (Scout → Analyst → Writer), streamed live over NDJSON. `Next.js` `React 19` `Claude`
+
+**[Leeterboard]** — shared leaderboard for friends grinding LeetCode. No login, one link. Serverless proxy + Redis cache so CORS and rate limits aren't my problem. `React` `Vercel` `Upstash Redis`
+
+**[Plottle]** — guess the film from its plot in seven tries, hints unlock as you miss. HMAC-signed answers, no DB lookup. Data pre-baked into the repo, refreshed weekly by cron. `React` `Vite` `GitHub Actions`
+
+### Tools
+
+`TypeScript` `Python` `React` `Next.js` `Vercel` `Redis` `SQLite` `Claude API` `MCP`
+
+### Reach me
+
+[ganginav@gmail.com] · [https://www.linkedin.com/in/vibhugangina/]
