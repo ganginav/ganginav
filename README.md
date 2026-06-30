@@ -1,4 +1,4 @@
-# [Vibhu Gangina]
+# Vibhu Gangina
 
 I build things with TypeScript and Python. Lately: LLM agents, serverless backends, and tools that do something useful instead of just demoing well.
 
@@ -16,4 +16,4 @@ I build things with TypeScript and Python. Lately: LLM agents, serverless backen
 
 ### Reach me
 
-[ganginav@gmail.com] · [https://www.linkedin.com/in/vibhugangina/]
+[email](ganginav@gmail.com) · [linkedin](https://www.linkedin.com/in/vibhugangina/)
