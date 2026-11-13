@@ -1,13 +1,11 @@
 # vibhu gangina
 
-### cool projects
+### what i'm working on...
 
-**[wip]**
+**sloth**
 
-### tools
-
-`TypeScript` `Python` `React` `Next.js` `Vercel` `Redis` `SQLite` `Claude API` `MCP`
+a slack bot that runs on my mac using my existing local claude subscription. i ask it to build or fix something in a thread, and it spins up coding workers in isolated git worktrees, runs checks, and opens pull requests when asked. no separate api bill. 
 
 ### reach me
 
-[email](ganginav@gmail.com) · [linkedin](https://www.linkedin.com/in/vibhugangina/)
+[email](mailto:ganginav@gmail.com) · [linkedin](https://www.linkedin.com/in/vibhugangina/)
